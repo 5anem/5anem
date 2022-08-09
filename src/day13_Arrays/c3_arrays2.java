@@ -1,6 +1,6 @@
 package day13_Arrays;
 
-public class c4_arrays2 {
+public class c3_arrays2 {
     public static void main(String[] args) {
 
         int[] arr = {5, -15, 25};//3
