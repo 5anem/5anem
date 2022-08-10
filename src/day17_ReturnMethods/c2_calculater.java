@@ -44,6 +44,7 @@ public class c2_calculater {
             default:
                 System.out.println("Invalid Operator : "+ operator);
         }
+
     }
 
 }
